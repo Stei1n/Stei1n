@@ -26,8 +26,8 @@ Desarrollador Web Full Stack · enero a noviembre de 2026
 - **FarmaBot.** Atención por WhatsApp con IA, inventario y precios de PosCloud, lectura de recetas, pedidos, transferencia a vendedores y respaldos con pruebas de restauración.
 - **Mi Carriel.** Asistente comercial, conversaciones, pedidos y clientes, adaptadores para World Office y Baum, permisos y zonas de reparto.
 - **Fundación Ángel K’a.** Sitio web, citas, pacientes, historia clínica, notas firmadas, proformas y controles de acceso y auditoría con Supabase.
-- **Bridge Markets.** Portal de afiliados, campañas, comisiones y materiales de marketing. Adaptación a otros idiomas de más de 100 piezas con Gemini API.
-- **Inventarios y contabilidad.** Reportes de existencias, ventas y rotación, integración con ContarERP y cliente de Factus para pruebas de facturación en sandbox.
+- **[Bridge Markets](https://github.com/gestionscallaai-max/Bridge-Markets).** Portal de afiliados, campañas, comisiones y materiales de marketing. Adaptación a otros idiomas de más de 100 piezas con Gemini API.
+- **Inventarios y contabilidad.** Reportes de existencias, ventas y rotación, [integración con ContarERP](https://github.com/gestionscallaai-max/Contarerp) y cliente de Factus para pruebas de facturación en sandbox.
 - **Automatización y operación.** Messenger con n8n, despliegues en EasyPanel y documentación de operación y entrega.
 
 ### Otros trabajos
